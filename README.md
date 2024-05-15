@@ -82,7 +82,28 @@ Add类（servlet类）中的具体操作:
  然后传递给Servelt,调用lessonDao进行查询
 
 
-![image](public/image/20190528145810708.png)
+![image]([public/image/20190528145810708.png](https://github.com/Jonathan522566/Score-Enquiry-System/blob/main/image/%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%A4%BA/1.png))
+
+
+![image]([public/image/20190528145810708.png](https://github.com/Jonathan522566/Score-Enquiry-System/blob/main/image/%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%A4%BA/2.png))
+
+
+![image]([public/image/20190528145810708.png](https://github.com/Jonathan522566/Score-Enquiry-System/blob/main/image/%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%A4%BA/3.png))
+
+
+![image]([public/image/20190528145810708.png](https://github.com/Jonathan522566/Score-Enquiry-System/blob/main/image/%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%A4%BA/4.png))
+
+
+![image]([public/image/20190528145810708.png](https://github.com/Jonathan522566/Score-Enquiry-System/blob/main/image/%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%A4%BA/5.png))
+
+
+![image]([public/image/20190528145810708.png](https://github.com/Jonathan522566/Score-Enquiry-System/blob/main/image/%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%A4%BA/6.png))
+
+
+![image]([public/image/20190528145810708.png](https://github.com/Jonathan522566/Score-Enquiry-System/blob/main/image/%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%A4%BA/7.png))
+
+
+![image]([public/image/20190528145810708.png](https://github.com/Jonathan522566/Score-Enquiry-System/blob/main/image/%E9%A1%B5%E9%9D%A2%E5%9B%BE%E7%A4%BA/8.png))
 
 
 
