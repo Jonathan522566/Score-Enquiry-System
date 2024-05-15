@@ -82,7 +82,7 @@ Add类（servlet类）中的具体操作:
  然后传递给Servelt,调用lessonDao进行查询
 
 
-
+![image](public/image/20190528145810708.png)
 
 
 
