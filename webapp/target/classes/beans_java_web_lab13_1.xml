@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:c="http://www.springframework.org/schema/c"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+      <bean id="dbDao" class="com.example.DEMO.java_web_lab11.DbDao"/>
+      <bean id="studentDao" class="com.example.DEMO.java_web_lab11.StudentDao">
+           <property name="stuName" value="zhangsan"/>
+           <property name="stuAge" value="18"/>
+           <property name="stuNo" value="202214"/>
+      </bean>
+
+    <bean id="stu"  class="com.example.DEMO.java_web_lab13_1.Student"
+          p:sNo="001" p:sName="张三" p:age="13" abstract="true"></bean>
+    <bean id="student" class="com.example.DEMO.java_web_lab13_1.CollegeStudent" p:major="Web专业 " parent="stu"></bean>
+
+
+
+</beans>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
